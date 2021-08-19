@@ -3,4 +3,4 @@
 
 Feel free to check it out 🧑‍💻<P>
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/tRufMMGLCqo)](https://youtu.be/tRufMMGLCqo)
+[![Ambu-BD](https://img.youtube.com/vi/tRufMMGLCqo/0.jpg)](https://www.youtube.com/watch?v=tRufMMGLCqo)
