@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">AmbuBD</string>
+    <string name="name_text">AmbuBD</string>
+    <string name="name">Always For You</string>
+
+    <string name="hospital">Hospital</string>
+    <string name="ambulance">Ambulane</string>
+
+    <string-array name="hospital_name">
+
+        <item>Khulna Medical Collage Hospital</item>
+        <item>Khulna City Medical Collage Hospital</item>
+        <item>Islami Bank Hospital</item>
+        <item>Gorib-E-Newaz Clinic</item>
+        <item>Bangladesh Eye Hospital, Khulna</item>
+        <item>Fortis Escorts Heart Institute, Khulna</item>
+        <item>Shaheed Sheikh Abu Naser Specialised Hospital</item>
+        <item>Rasheda Memorial Hospital and Diagnostic</item>
+        <item>Sadar Hospital, Khulna</item>
+        <item>AFC Health Fortis Heart Institute, Khulna</item>
+        <item>Dr. Badsha Mia Memorial Clinic and Diagnostic</item>
+        <item>Binodini Smrity Hospital</item>
+        <item>Shapla Clinic</item>
+        <item>Khalispur Lal Hospital</item>
+        <item>Khulna Healthcare Hospital</item>
+        <item>Cure Home General Hospital</item>
+        <item>Dr. Badsha Mia Memorial Clinic and Hospital</item>
+        <item>Khulna Colon Rectun Research Center, KCRC</item>
+        <item>Upazila Health Complex</item>
+        <item>Khulna city Clinic</item>
+        <item>Khulna Life care Hospital snd Diognostic </item>
+        <item>Afzalia Estate Kindney, Khulna</item>
+        <item>Sandhani Donor Club, Khulna</item>
+        <item>Zohura Memorial Hospital</item>
+        <item>Anwara Memorial Hospital and Diagonistic</item>
+        <item>South Zone Private Hosputal</item>
+        <item>Rotaract Hospital</item>
+        <item>Khulna Pongu Hospital</item>
+        <item>Surokkha Hospital and Diagnostic</item>
+        <item>Doctors Diagonostic Center</item>
+        <item>Fair Dental</item>
+        <item>Khulna University Medicl Center </item>
+        <item>Doctors point</item>
+        <item>Khulna Matrimongla and Health Center</item>
+        <item>Khulna BNSB Eye Hospital</item>
+        <item>Lab Aid Diagnostic center</item>
+        <item>Khulna Dental Care</item>
+        <item>Lions Eye Hospital</item>
+        <item>Khulna Nursing Home and Diagonostic Center</item>
+        <item>Gazi Medical Collage Hospital </item>
+
+    </string-array>
+
+
+</resources>

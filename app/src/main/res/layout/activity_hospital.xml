@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hospital">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button1"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:background="#00000000"
+            android:clickable="true"
+            android:text="Khulna Medical Collage Hospital"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button2"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:background="#00000000"
+            android:text="Gazi Medical Collage Hospital"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+
+
+        <Button
+            android:id="@+id/button3"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:clickable="false"
+            android:text="Sundorban Medical Institute"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button4"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:text="Ad-Din Akij Medical Collage Hospital"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button5"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:text="Jashore Medical Collage,Jashore"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button6"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:text="Khulna Medical Institute"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button7"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:text="Khulna Homeopathic Madical Collage and Hospital"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button8"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:text="Khulna City Medical Collage Hospital"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button9"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:text="Khulna Unani Medical Collage"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ambulance">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       android:layout_margin="8dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button41"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:clickable="true"
+            android:text="Khulna Medical Collage Hospital"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            android:layout_gravity="start" />
+
+        <Button
+            android:id="@+id/button42"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna City Medical Collage Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            android:layout_gravity="start" />
+
+        <Button
+            android:id="@+id/button43"
+            android:drawableRight="@drawable/right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Islami Bank Hospital"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button44"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:clickable="false"
+            android:text="Gorib-E-Newaz Clinic"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button50"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="AFC Health Fortis Heart Institute, Khulna"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button45"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Bangladesh Eye Hospital, Khulna"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button46"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Fortis Escorts Heart Institute, Khulna"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button47"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Shaheed Sheikh Abu Naser Specialised Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button48"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Rasheda Memorial Hospital and Diagnostic"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button49"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Sadar Hospital, Khulna"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button51"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Dr. Badsha Mia Memorial Clinic and Diagnostic"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button52"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Binodini Smrity Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button53"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Shapla Clinic"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button54"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khalispur Lal Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button55"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna Healthcare Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button56"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Cure Home General Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            android:verticalScrollbarPosition="right" />
+
+        <Button
+            android:id="@+id/button57"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Dr. Badsha Mia Memorial Clinic and Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button58"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna Colon Rectun Research Center, KCRC"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+
+        <Button
+            android:id="@+id/button59"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna city Clinic"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button60"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna Life care Hospital snd Diognostic"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button61"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Afzalia Estate Kindney, Khulna"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button62"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:clickable="false"
+            android:text="Sandhani Donor Club, Khulna"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button63"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:clickable="false"
+            android:text="Zohura Memorial Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            android:verticalScrollbarPosition="right" />
+
+        <Button
+            android:id="@+id/button64"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Anwara Memorial Hospital and Diagonistic"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            android:verticalScrollbarPosition="right" />
+
+        <Button
+            android:id="@+id/button65"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="South Zone Private Hosputal"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            android:verticalScrollbarPosition="right" />
+
+        <Button
+            android:id="@+id/button66"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Rotaract Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button67"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna Pongu Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button68"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Surokkha Hospital and Diagnostic"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button69"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Doctors Diagonostic Center"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button70"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Fair Dental"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button71"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna University Medicl Center"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button72"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Doctors point"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button73"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna Matrimongla and Health Center"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button74"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna BNSB Eye Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button75"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Lab Aid Diagnostic center"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button76"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna Dental Care"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button77"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Lions Eye Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button78"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Khulna Nursing Home and Diagonostic Center"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/button79"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Gazi Medical Collage Hospital"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+        <Button
+            android:id="@+id/button80"
+            android:drawableRight="@drawable/right"
+            android:textAlignment="textStart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1A1F9298"
+            android:text="Upazila Health Complex"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+    </LinearLayout>
+
+
+</ScrollView>

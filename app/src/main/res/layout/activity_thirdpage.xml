@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/am"
+    android:gravity="center"
+    android:padding="5dp"
+    android:weightSum="2"
+    android:orientation="vertical"
+    tools:context=".thirdpage">
+
+
+    <Button
+        android:id="@+id/ambulance"
+        android:layout_width="197dp"
+        android:layout_height="197dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/roundbutton"
+        android:drawableTop="@drawable/ambu"
+        android:text="Call AMBULANCE"
+        android:textColor="#FFFFFF"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/hospital"
+        android:layout_width="197dp"
+        android:layout_height="197dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/roundbutton"
+        android:drawableTop="@drawable/nurse"
+        android:text="All Medical Collage In Khulna"
+        android:textColor="#F3FDFF"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+
+
+
+
+</LinearLayout>

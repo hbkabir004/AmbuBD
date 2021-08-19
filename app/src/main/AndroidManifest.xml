@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.example.ambubd">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <dist:module dist:instant="true" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Button9"></activity>
+        <activity android:name=".Button8" />
+        <activity android:name=".Button7" />
+        <activity android:name=".Button6" />
+        <activity android:name=".Button5" />
+        <activity android:name=".Button4" />
+        <activity android:name=".Button3" />
+        <activity android:name=".Button2" />
+        <activity android:name=".Button1" />
+        <activity android:name=".Button80" />
+        <activity android:name=".Button79" />
+        <activity android:name=".Button78" />
+        <activity android:name=".Button77" />
+        <activity android:name=".Button76" />
+        <activity android:name=".Button75" />
+        <activity android:name=".Button74" />
+        <activity android:name=".Button73" />
+        <activity android:name=".Button72" />
+        <activity android:name=".Button71" />
+        <activity android:name=".Button70" />
+        <activity android:name=".Button69" />
+        <activity android:name=".Button68" />
+        <activity android:name=".Button67" />
+        <activity android:name=".Button66" />
+        <activity android:name=".Button65" />
+        <activity android:name=".Button64" />
+        <activity android:name=".Button63" />
+        <activity android:name=".Button62" />
+        <activity android:name=".Button61" />
+        <activity android:name=".Button60" />
+        <activity android:name=".BUtton59" />
+        <activity android:name=".Button58" />
+        <activity android:name=".Button57" />
+        <activity android:name=".Button56" />
+        <activity android:name=".Button55" />
+        <activity android:name=".Button54" />
+        <activity android:name=".Button53" />
+        <activity android:name=".Button52" />
+        <activity android:name=".Button51" />
+        <activity android:name=".Button50" />
+        <activity android:name=".Button49" />
+        <activity android:name=".Button47" />
+        <activity android:name=".Button48" />
+        <activity android:name=".Button46" />
+        <activity android:name=".Button45" />
+        <activity android:name=".Button44" />
+        <activity android:name=".Button43" />
+        <activity android:name=".button42" />
+        <activity android:name=".ProfileAcivity" />
+        <activity android:name=".ambulance" />
+        <activity android:name=".hospital" />
+        <activity android:name=".thirdpage" />
+        <activity android:name=".secondpage" />
+        <activity
+            android:name=".firstpage"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
